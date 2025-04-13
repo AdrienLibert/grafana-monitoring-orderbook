@@ -45,4 +45,4 @@ start_monitoring: start_kafka start_grafana
 	helm install orderbook chart/ --namespace orderbook -f helm/orderbook/values-local.yaml
 
 stop_monitoring: stop_kafka stop_grafana
-	helm uninstall --ignore-not-found orderbook --namespace orderbook
+	helm uninstall orderbook --ignore-not-found orderbook --namespace orderbook
