@@ -2,7 +2,7 @@
 
 Monitor an orderbook data generator using Grafana, built from the repository: [AdrienLibert/orderbook](https://github.com/AdrienLibert/orderbook).  
 
-Developed in collaboration with [@ShikoteiCoding](https://github.com/ShikoteiCoding).
+The orderbook project was developed in collaboration with [@ShikoteiCoding](https://github.com/ShikoteiCoding).
 
 ## Installation
 
