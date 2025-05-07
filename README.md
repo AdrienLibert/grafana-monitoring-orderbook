@@ -37,3 +37,13 @@ Stop the monitoring service:
 ```
 make stop_monitoring
 ```
+
+### CPU Usage per Pod
+![CPU Usage per Pod](img/cpu_per_pod.JPG)
+
+This chart illustrates the CPU consumption for each pod, allowing you to monitor resource utilization and identify performance bottlenecks.
+
+### Memory Usage per Pod
+![Memory Usage per Pod](img/memory_per_pod.JPG)
+
+This chart displays the memory usage for each pod, helping you track memory allocation and detect potential inefficiencies or leaks.
